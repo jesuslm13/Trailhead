@@ -1,3 +1,10 @@
+/**
+ * @description       : 
+ * @author            : sr.Oh
+ * @group             : 
+ * @last modified on  : 01-08-2025
+ * @last modified by  : sr.Oh
+**/
 import { LightningElement, api } from 'lwc';
 import { bikes } from 'c/data';
 
